@@ -1,0 +1,244 @@
+Features_TT:
+   Main Menu Features :
+
+        * Contains "Lets Start" Option to Move On.
+        * Contains "Info Panel" having alot of Informative Data.
+        * Contains "View Records" having little Info of Users.
+        * Contains "Delete Record" to Delete any User Record.
+        * Contains "Quit" Options with Latest Features.
+
+   User Front_Menu Features :
+
+        * Contains option to remove account.
+        * Contains option to Practice on Words and Sentences.
+        * Contains 5 Lessons with knockOut Play
+        * Contains Option to check your Typing Speed.
+        * Show Result : Accuracy , Mistakes , WPM , CPM etc
+
+   Typing Tutor Features :
+
+        * Gives an option to make your account Protected (OPTIONAL).
+        * Gives Fully Friendly User Interface to familiar with Typing.
+        * Change Screen Color to RED If user Pressed Wrong Key.
+-1
+
+Finger Placements_TT:
+
+   Home Row
+
+        * The left index  finger will control the F and G keys.
+        * The left middle finger will control the D key.
+        * The left ring   finger will control the S key.
+        * The left little finger will control the A key.
+
+        * The right index  finger will control the J and H keys.
+        * The right middle finger will control the K key.
+        * The right ring   finger will control the L key.
+        * The right little finger will control the ; key.
+
+        * The spacebar is controlled by the right thumb.
+-1
+
+   QWERTY Row
+
+        * The left index  finger will control the R and T keys.
+        * The left middle finger will control the E key.
+        * The left ring   finger will control the W key.
+        * The left little finger will control the Q key.
+
+        * The right index  finger will control the Y and U keys.
+        * The right middle finger will control the I key.
+        * The right ring   finger will control the O key.
+        * The right little finger will control the P key.
+
+        * The spacebar is controlled by the right thumb.
+-1
+
+   Bottom Row
+
+        * The left index  finger will control the V and B keys.
+        * The left middle finger will control the C key.
+        * The left ring   finger will control the X key.
+        * The left little finger will control the Z key.
+        * The left shift key is controlled by left little finger.
+
+        * The right index  finger will control the N and M keys.
+        * The right middle finger will control the , key.
+        * The right ring   finger will control the . key.
+        * The right little finger will control the / key.
+        * The right shift key is controlled by right little finger.
+
+        * The spacebar is controlled by the right thumb.
+-1
+lesson_words_start:
+276 demure quiet modest reserved deride despot dictator absolute power 
+diligent showing care doing work elated spirited delight eloquent expressing 
+yourself readily clearly effectively embezzle steal money falsifying records empathy 
+sensitivity feelings enmity ill will hatred hostility erudite learned scholarly 
+extol praise revere fabricate invent feral Savage wild flabbergasted Astounded 
+forsake renounce leave abandon fractious troublesome irritable furtive secretive sly 
+gluttony excessive eating drinking gratuitous uncalled lacking good reason unwarranted 
+haughty proud arrogant hypocrisy Pretending feelings beliefs virtues impeccable perfect 
+flawless impertinent insolent rude implacable incapable appeased mitigated impudent casually 
+insolent incisive clear sharp analysis expression indolent lazy inept suitable 
+capable unqualified infamy notoriety extreme repute inhibit restrain prohibit retard 
+prevent innate natural inborn inherent built-in insatiable capable satisfied insular 
+separated narrow-minded tight-knit closed off intrepid brave face danger inveterate 
+stubbornly established habit jubilant extremely joyful knell solemn sound bell 
+often indicating death lithe Flexible graceful lurid shocking sensational maverick 
+independent nonconformist person maxim common saying expressing principle conduct meticulous 
+extremely careful about details modicum small amount something morose gloomy 
+sullen myriad nadir lowest something nominal insignificant trifling novice nuance 
+slight variation meaning expression oblivious lacking consciousness awareness obsequitous obeying 
+performing attentive manner obtuse quickness sensibility intellect panacea remedy parody 
+humorous ridiculous imitation penchant tendency partiality preference perusal careful examination 
+review plethora excess overabundance predilection preference preferred quaint charmingly fashioned 
+rash hasty incautious refurbish brighten freshen polish restore improve repudiate 
+reject decline rife abundant plentiful unpleasant salient significant conspicuous standing 
+serendipity staid sedate serious self-restrained superfluous exceeding sufficient necessary sycophant 
+sucks taciturn Inclined silence reserved speech reluctant conversation truculent fight 
+cruel umbrage resentment offense venerable respected distinguished confuse vociferous loud 
+boisterous wanton undisciplined lewd lustful zenith is
+lesson_sentences_start:
+36
+A sentence is a group of words giving a complete thought.
+Look on top of the refrigerator for the key.
+An interrogative sentence ends with a question mark.
+The frog jumped and landed in the pond.
+An exclamatory sentence expresses excitement or emotion.
+Will you help me with the math homework?
+Some students like to study in the mornings.
+Abdullah waited for the train.
+The train was late.
+A complex sentence has an independent clause.
+A complex sentence hasat least one dependent clause.
+The baby cried.
+The runner runs fast.
+Juan and Arturo play football every afternoon.
+The dog and the cat howled and yowled, respectively.
+Alicia goes to the library and studies every day.
+The management were pleased to announce the results.
+Mary and Samantha took the bus.
+Mr. Chun called his shirts Aloha Shirts.
+The dog barked and growled loudly.
+Jack and Jill went up a hill.
+Sociology and anthropology are both social sciences.
+Nestor goes to the office early.
+He plays cricket.
+A declarative sentence states a fact and ends with a period.
+She works in a post office.
+Greg works in a bank.
+A compound sentence has at least two independent clauses.
+They live in Washington.
+I eat breakfast at 8:00 a.m.
+She goes to work at 9:00 a.m.
+Eddy plays basketball every Friday.
+A simple sentence has just one independent clause.
+Penny starts class at 10:00.
+He don't drink beer.
+The ice melts quickly.
+Lesson_No.1:
+It was getting dark.
+The setting sun cast long rays over commuters tired and grim-faced.
+Men loaded down with packages students swarming home university.
+Mixing with clerks and businessmen and drab some secretaries. 
+He stopped his Packard for a red light and then started it up again.
+Store had been open without just in time to spell the help for dinner.
+Records of the day maybe even close a couple of sales himself.
+He drove slowly past the small square in the center of the street
+The town park. There were no parking places in front of LOYCE.
+He cursed under his breath and swung the car in a U-turn.
+Again he passed the little square of green with yellow.
+Its lonely drinking fountain and bench and single lamppost.
+-1
+Lesson_No.2:
+Punjab University College of Information Technology.
+This is a college of computer science and information technology.
+Located at the University of the Punjab located in Lahore, Pakistan.
+College is located on the university's Allama Iqbal Campus.
+Old Anarkali and PUCIT New Campus is located on Canal Road Lahore.
+Established with the name Center for Computer Science in 1988.
+The first program offered was a year-long.
+2-semester postgraduate diploma for which 24 students were registered.
+This program was offered until 2000.
+In 1991 the Center for CS was upgraded to the Department of CS.
+The first time a full-fledged two-year in computer science was offered.
+The first ever intake for the program was 15 students.
+In December 2000, the department upgraded to a full-fledged college.
+New name of the Punjab University College of Information Technology.
+-1
+Lesson_No.3:
+Pakistan is unique among Muslim countries.
+Created in the name of Islam.
+Pakistan Movement led by Muhammad Ali Jinnah.
+Pakistan was created in 1947 as an independent homeland.
+It is an ethnically and linguistically diverse country.
+Similarly diverse geography and wildlife. Initially a dominion.
+Pakistan adopted a constitution in 1956, becoming an Islamic republic.
+In 1971 resulted in the secession of East Pakistan.
+As the new country of Bangladesh.
+In 1973 Pakistan adopted a new constitution establishing.
+A federal government based in Islamabad consisting of four provinces.
+The new constitution also stipulated that all laws were to confirm.
+To the injunctions of Islam as laid down in the Quran and Sunnah.
+The name Pakistan literally means "land of the pure".
+-1
+Lesson_No.4:
+The world is the planet Earth including human civilization.
+Philosophical, World is the whole of the physical Universe.
+Theological, World is the material or the profane sphere. 
+The "end of the world" refers to scenarios of the final.
+End of human history, often in religious contexts.
+History of the world is commonly understood as spanning.
+The major geopolitical developments of about five millennia.
+From the first civilizations to the present.
+In terms such as world religion, world language.
+World government, and world war, world suggests international.
+Intercontinental scope without necessarily of the entire world.
+World population is the sum of all human populations at any time.
+Similarly, world economy is the sum of the economies.
+All societies or countries, especially in the globalization.
+Terms like world championship, gross world product, world flags.
+Imply the sum or combination of all current-day sovereign states.
+-1
+Lesson_No.5:
+As you can see in the title "A very hard typing test text".
+Lesson is a structured period of learning is intended to occur.
+Involves more students being taught by a teacher or instructor.
+Someone must have the worldwide record as at least 60 seconds.
+To Put up typing test wall! I will be checking this page every day.
+But no one see if someone got this score.
+It's very fun making these types of elaborate things.
+Because you can write whatever you want!.
+And input mispeled words! As you probably mistake was on purpose.
+Or was it? Do your best! I will do my best. Believe in yourself.
+This thing is gonna repeat for hours. And hours.
+I'm just eating food while typing this thing up.
+It's like my 900 word essay that was required to pass language.
+However this text is not gonna go on for 900 words kill me and you.
+Don't you feel like you wanna scream and shout? Stupid references.
+Make that dial-up noise with your mouth.
+I have been typing this for centuries on end figuring out.
+What I should put in this typing test.
+It is very hard to type within 60 seconds. Good bye!
+-1
+WPM_Typing_Lesson:
+As you can see in the title "A very hard typing test text".
+Lesson is a structured period of learning is intended to occur.
+Involves more students being taught by a teacher or instructor.
+Someone must have the worldwide record as at least 60 seconds.
+To Put up typing test wall! I will be checking this page every day.
+But no one see if someone got this score.
+It's very fun making these types of elaborate things.
+Because you can write whatever you want!.
+And input mispeled words! As you probably mistake was on purpose.
+Or was it? Do your best! I will do my best. Believe in yourself.
+This thing is gonna repeat for hours. And hours.
+I'm just eating food while typing this thing up.
+It's like my 900 word essay that was required to pass language.
+However this text is not gonna go on for 900 words kill me and you.
+Don't you feel like you wanna scream and shout? Stupid references.
+Make that dial-up noise with your mouth.
+I have been typing this for centuries on end figuring out.
+What I should put in this typing test.
+-1
